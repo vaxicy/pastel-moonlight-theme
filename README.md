@@ -1,4 +1,4 @@
-# Pastel Moonlight Theme 🌙🌸
+# Pastel Moonlight Theme 🌙
 
 > A soft, modern pastel pink theme for creative developers.
 
@@ -92,5 +92,4 @@ Found a color that doesn't feel right? Open an issue — feedback on contrast an
 Non-Commercial License. See [LICENSE](LICENSE) for details.
 
 ---
-
-*Made with 🌙🌸 for creative programmers.*
+

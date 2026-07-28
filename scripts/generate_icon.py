@@ -20,8 +20,7 @@ md.rounded_rectangle([8, 8, S - 8, S - 8], radius=56, fill=255)
 img.paste(bg, (0, 0), mask)
 
 d = ImageDraw.Draw(img)
-# Subtle border
-d.rounded_rectangle([8, 8, S - 8, S - 8], radius=56, outline=(235, 179, 201, 255), width=4)
+# No outer border — clean soft look
 
 # --- Soft glow behind moon ---
 glow = Image.new("RGBA", (S, S), (0, 0, 0, 0))
