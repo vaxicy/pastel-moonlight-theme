@@ -20,6 +20,7 @@
   - Numbers → warm orange
   - Comments → muted gray-pink, low visual noise
 - **Semantic highlighting** support for accurate token coloring
+- **Dark variant included** — switch to **Pastel Moonlight Dark** (deep warm purple-black base, same pastel syntax palette) for low-light sessions
 - **Optimized for**: JavaScript, TypeScript, React (JSX/TSX), HTML, CSS, JSON, Python, Markdown
 
 ## 🎨 Color Palette
@@ -50,7 +51,7 @@
 ### From VSIX
 
 ```bash
-code --install-extension pastel-moonlight-theme-1.0.2.vsix
+code --install-extension pastel-moonlight-theme-1.0.4.vsix
 ```
 
 ### Build from source
@@ -73,6 +74,11 @@ vsce package
 ### CSS
 
 ![CSS screenshot](images/screenshot-css.png)
+
+### Dark Variant (Pastel Moonlight Dark)
+
+![Dark variant screenshot](images/screenshot-dark.png)
+
 ## 💡 Recommended Settings
 
 For the full cozy experience:
