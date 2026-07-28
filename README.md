@@ -1,6 +1,6 @@
 # Pastel Moonlight Theme 🌙
 
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Install%20Now-9B6FB0?logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme)
+[![Install](https://img.shields.io/visual-studio-marketplace/v/lilinhuang.pastel-moonlight-theme?label=Install&color=pink)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme) [![Rating](https://img.shields.io/visual-studio-marketplace/stars/lilinhuang.pastel-moonlight-theme?color=9B6FB0)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme)
 
 > A soft, modern pastel pink theme for creative developers. Already available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme).
 
