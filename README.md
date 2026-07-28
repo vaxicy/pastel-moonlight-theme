@@ -1,6 +1,8 @@
 # Pastel Moonlight Theme 🌙
 
-> A soft, modern pastel pink theme for creative developers.
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Install%20Now-9B6FB0?logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme)
+
+> A soft, modern pastel pink theme for creative developers. Already available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme).
 
 **Pastel Moonlight** is not a "cute pink" theme — it's a **refined pastel aesthetic** inspired by Pinterest moodboards, Notion pastel style, and cozy creative workspaces under a soft moonlit sky. Designed for frontend developers, designers, AI builders, and anyone who wants their editor to feel like a calm, beautiful place to create.
 
@@ -38,6 +40,8 @@
 
 ### From Marketplace
 
+👉 [Open in VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pastel-moonlight-theme)
+
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
 2. Search for **"Pastel Moonlight Theme"**
 3. Click **Install**
@@ -46,7 +50,7 @@
 ### From VSIX
 
 ```bash
-code --install-extension pastel-moonlight-theme-1.0.1.vsix
+code --install-extension pastel-moonlight-theme-1.0.2.vsix
 ```
 
 ### Build from source

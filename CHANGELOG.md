@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] - 2026-07-28
+
+### Changed
+
+- Icon: removed glow halo that looked like a dark ring; deepened pink slightly
+
 ## [1.0.1] - 2026-07-28
 
 ### Changed
