@@ -46,7 +46,7 @@
 ### From VSIX
 
 ```bash
-code --install-extension pastel-moonlight-theme-1.0.0.vsix
+code --install-extension pastel-moonlight-theme-1.0.1.vsix
 ```
 
 ### Build from source
