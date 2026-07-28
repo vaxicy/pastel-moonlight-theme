@@ -1,0 +1,43 @@
+{
+  "name": "pastel-pink-theme",
+  "displayName": "Pastel Pink Theme",
+  "description": "A soft, modern pastel pink theme for creative developers. Dreamy, minimal, and easy on the eyes — designed for long, cozy coding sessions.",
+  "version": "1.0.0",
+  "publisher": "vaxicy",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pastel",
+    "pink",
+    "light theme",
+    "soft",
+    "minimal",
+    "aesthetic",
+    "cozy",
+    "designer",
+    "creative"
+  ],
+  "galleryBanner": {
+    "color": "#F8E8EE",
+    "theme": "light"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/pastel-pink-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Pink",
+        "uiTheme": "vs",
+        "path": "./themes/pastel-pink-color-theme.json"
+      }
+    ]
+  }
+}

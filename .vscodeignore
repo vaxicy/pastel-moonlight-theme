@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.codebuddy/**
+docs/**
+scripts/**
+marketplace-description.md
+icon-design-suggestion.md
+**/*.vsix
