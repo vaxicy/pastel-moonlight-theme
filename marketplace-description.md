@@ -1,4 +1,4 @@
-# Pastel Pink Theme — Marketplace Description
+# Pastel Moonlight Theme — Marketplace Description
 
 ## Short Description (used in search results)
 
@@ -6,13 +6,13 @@ A soft, modern pastel pink VS Code theme for creative developers. Dreamy, minima
 
 ## Long Description
 
-**Pastel Pink Theme** brings a calm, refined pastel aesthetic to your VS Code editor — inspired by Pinterest moodboards, Notion pastel style, and cozy creative workspaces.
+**Pastel Moonlight Theme** brings a calm, refined pastel aesthetic to your VS Code editor — inspired by Pinterest moodboards, Notion pastel style, and cozy creative workspaces under a soft moonlit sky.
 
 It is not a childish pink. It's a high-end pastel pink designed for **frontend developers, designers, AI builders, and creative programmers** who want their tooling to feel beautiful without sacrificing readability.
 
 ### Highlights
 
-- 🌸 Light pink-white editor background (`#F9F5F6`) — gentle during long sessions
+- 🌙 Light pink-white editor background (`#F9F5F6`) — gentle during long sessions
 - 🎀 Unified pastel pink across Sidebar, Activity Bar, Panel & Status Bar
 - 💗 Soft `#FDCEDF` selection that never feels harsh
 - 🔤 Carefully tuned syntax colors: deep-rose keywords, purple-pink functions, low-sat green strings, warm-orange numbers, muted gray-pink comments

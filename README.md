@@ -1,8 +1,8 @@
-# Pastel Pink Theme 🌸
+# Pastel Moonlight Theme 🌙🌸
 
 > A soft, modern pastel pink theme for creative developers.
 
-Pastel Pink is not a "cute pink" theme — it's a **refined pastel aesthetic** inspired by Pinterest moodboards, Notion pastel style, and cozy creative workspaces. Designed for frontend developers, designers, AI builders, and anyone who wants their editor to feel like a calm, beautiful place to create.
+**Pastel Moonlight** is not a "cute pink" theme — it's a **refined pastel aesthetic** inspired by Pinterest moodboards, Notion pastel style, and cozy creative workspaces under a soft moonlit sky. Designed for frontend developers, designers, AI builders, and anyone who wants their editor to feel like a calm, beautiful place to create.
 
 ---
 
@@ -39,14 +39,14 @@ Pastel Pink is not a "cute pink" theme — it's a **refined pastel aesthetic** i
 ### From Marketplace
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-2. Search for **"Pastel Pink Theme"**
+2. Search for **"Pastel Moonlight Theme"**
 3. Click **Install**
-4. Open Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) → select **Pastel Pink**
+4. Open Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) → select **Pastel Moonlight**
 
 ### From VSIX
 
 ```bash
-code --install-extension pastel-pink-theme-1.0.0.vsix
+code --install-extension pastel-moonlight-theme-1.0.0.vsix
 ```
 
 ### Build from source
@@ -69,7 +69,6 @@ vsce package
 ### CSS
 
 ![CSS screenshot](images/screenshot-css.png)
-
 ## 💡 Recommended Settings
 
 For the full cozy experience:
@@ -94,4 +93,4 @@ Non-Commercial License. See [LICENSE](LICENSE) for details.
 
 ---
 
-*Made with 🌸 for creative programmers.*
+*Made with 🌙🌸 for creative programmers.*

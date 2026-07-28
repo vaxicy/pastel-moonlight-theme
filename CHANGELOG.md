@@ -4,7 +4,7 @@
 
 ### Added
 
-- Initial release of Pastel Pink Theme
+- Initial release of Pastel Moonlight Theme
 - Full workbench UI colors (editor, sidebar, activity bar, panel, status bar, terminal)
 - Syntax highlighting for JavaScript, TypeScript, React, HTML, CSS, JSON, Python, Markdown
 - Semantic highlighting support

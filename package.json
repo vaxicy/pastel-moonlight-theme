@@ -1,6 +1,6 @@
 {
-  "name": "pastel-pink-theme",
-  "displayName": "Pastel Pink Theme",
+  "name": "pastel-moonlight-theme",
+  "displayName": "Pastel Moonlight Theme",
   "description": "A soft, modern pastel pink theme for creative developers. Dreamy, minimal, and easy on the eyes — designed for long, cozy coding sessions.",
   "version": "1.0.0",
   "publisher": "lilinhuang",
@@ -29,14 +29,14 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vaxicy/pastel-pink-theme"
+    "url": "https://github.com/vaxicy/pastel-moonlight-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Pastel Pink",
+        "label": "Pastel Moonlight",
         "uiTheme": "vs",
-        "path": "./themes/pastel-pink-color-theme.json"
+        "path": "./themes/pastel-moonlight-color-theme.json"
       }
     ]
   }
